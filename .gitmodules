@@ -1,0 +1,3 @@
+[submodule "Codebase/RawEngine"]
+	path = Codebase/RawEngine
+	url = https://github.com/PCx200/RawEngine.git
